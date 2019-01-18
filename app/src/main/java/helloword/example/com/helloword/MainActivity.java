@@ -9,6 +9,11 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
+/**
+ * test
+ * @author jidd
+ *
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
